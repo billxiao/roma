@@ -1,0 +1,1 @@
+打开Chrome，进入插件管理界面 chrome://extensions；启动“开发者模式”；拖拽SeleniumIDE-Director-Plugin zip文件到Chrome，完成插件安装。
